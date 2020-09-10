@@ -1,7 +1,7 @@
 {
     "name": "Ping Kyza",
-    "description": "Press F4 to ping Kyza.",
+    "description": "Press F4 to ping RnC. THIS IS FORKED FROM NotKyza",
     "version": "",
-    "author": "Not Kyza",
-    "license": "Kyza License"
+    "author": "Rock n' Cat",
+    "license": "RnC License"
 }
