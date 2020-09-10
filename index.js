@@ -10,7 +10,7 @@ module.exports = class PingKyza extends Plugin {
 
     keyup(event) {
         if (event.key == 'F4') {
-            insertText('<@220584715265114113>')
+            insertText('<@391401181328572418>')
         }
     }
 
